@@ -548,7 +548,18 @@ const products = [
     image: "https://images.samsung.com/is/image/samsung/p6pim/in/sm-r400nzaainu/gallery/in-galaxy-buds-fe-r400-sm-r400nzaainu-thumb-537574044?$344_344_PNG$",
     isBestSeller: false,
     brand: "Samsung"
-  }
+  },
+  {
+    id: 50,
+    name: "Samsung Galaxy Buds FE",
+    price: 6999,
+    originalPrice: 8999,
+    discount: "22% OFF",
+    rating: 4.2,
+    image: "https://images.samsung.com/is/image/samsung/p6pim/in/sm-r400nzaainu/gallery/in-galaxy-buds-fe-r400-sm-r400nzaainu-thumb-537574044?$344_344_PNG$",
+    isBestSeller: false,
+    brand: "Samsung"
+  },
 ];
 
 export default products;
